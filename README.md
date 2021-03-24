@@ -1,4 +1,4 @@
-# STM32-PS2X :: STM32F4 (Nucleo F429ZI)
+# PS2X :: STM32F4 (Nucleo F429ZI)
 Interfacing PS2 Wireless Controller with STM32 (Nucleo-F429ZI) with STM32CubeIDE
 
 Details :
